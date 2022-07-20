@@ -1,0 +1,21 @@
+.transactions-count{
+
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.703);
+    padding: 15px;
+    border-radius: 8px;
+    font-weight: 300;
+}
+
+.anal h4{
+    font-size: 30px;
+}
+.anal h3{
+    font-size: 40px;
+}
+
+.category-card{
+    padding: 5px 10px;
+    box-shadow: 0 0 2px gray;
+    margin-top: 15px;
+    border-radius: 15px;
+}
